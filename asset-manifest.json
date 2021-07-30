@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bhawyahuja/Particle-Animation-React.git/static/css/main.884e0350.chunk.css",
+    "main.js": "/Bhawyahuja/Particle-Animation-React.git/static/js/main.1e62b7c2.chunk.js",
+    "main.js.map": "/Bhawyahuja/Particle-Animation-React.git/static/js/main.1e62b7c2.chunk.js.map",
+    "runtime-main.js": "/Bhawyahuja/Particle-Animation-React.git/static/js/runtime-main.f4b377d5.js",
+    "runtime-main.js.map": "/Bhawyahuja/Particle-Animation-React.git/static/js/runtime-main.f4b377d5.js.map",
+    "static/js/2.3a56daa0.chunk.js": "/Bhawyahuja/Particle-Animation-React.git/static/js/2.3a56daa0.chunk.js",
+    "static/js/2.3a56daa0.chunk.js.map": "/Bhawyahuja/Particle-Animation-React.git/static/js/2.3a56daa0.chunk.js.map",
+    "static/js/3.d981aea4.chunk.js": "/Bhawyahuja/Particle-Animation-React.git/static/js/3.d981aea4.chunk.js",
+    "static/js/3.d981aea4.chunk.js.map": "/Bhawyahuja/Particle-Animation-React.git/static/js/3.d981aea4.chunk.js.map",
+    "index.html": "/Bhawyahuja/Particle-Animation-React.git/index.html",
+    "static/css/main.884e0350.chunk.css.map": "/Bhawyahuja/Particle-Animation-React.git/static/css/main.884e0350.chunk.css.map",
+    "static/js/2.3a56daa0.chunk.js.LICENSE.txt": "/Bhawyahuja/Particle-Animation-React.git/static/js/2.3a56daa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4b377d5.js",
+    "static/js/2.3a56daa0.chunk.js",
+    "static/css/main.884e0350.chunk.css",
+    "static/js/main.1e62b7c2.chunk.js"
+  ]
+}
